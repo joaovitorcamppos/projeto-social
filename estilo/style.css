@@ -50,7 +50,7 @@ section#redes-sociais img:hover{
     
 }
 
-iframe{
+iframe#tela{
     position: relative;
     top: 81px;
     left: 22px;
